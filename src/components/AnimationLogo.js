@@ -10,7 +10,7 @@ const AnimationLogo = () => {
     <div className="">
 
       
-    <Video as={ReactPlayerAsVideo} src={ AnimationLogoEZ} />;                                                
+    <Video as={ReactPlayerAsVideo} src={ AnimationLogoEZ} muted={true} play={true} loop={true}/>;                                                
         
     </div>
 
