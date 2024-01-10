@@ -1,5 +1,5 @@
 import React from "react";
-import MuxVideo from "@/components/"
+import MuxVideo from "../../components/MuxPlayer"
 const page = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
